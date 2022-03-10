@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T11:16:44.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Uh4-xOnNcDchrW5Sq1jm" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T11:48:16.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="wcqOi37rigQ0NTOSOxNd" version="16.4.3" type="github">
   <diagram id="Nd7Q3TVraV60mRgbKxLl" name="Page-1">
     <mxGraphModel dx="1248" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,6 +136,14 @@
             <mxPoint x="960" y="320" as="sourcePoint" />
             <mxPoint x="1010" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UE3_2l7wGbZXTyPERCW3-264" value="Storage Service" style="swimlane;startSize=20;glass=0;swimlaneLine=1;dashed=1;strokeWidth=1;swimlaneFillColor=none;rounded=1;shadow=0;sketch=0;swimlaneHead=1;horizontal=1;noLabel=0;collapsible=0;" vertex="1" parent="1T_O8FafnoM-xf-Qj9W--26">
+          <mxGeometry x="975" y="370" width="110" height="90" as="geometry">
+            <mxRectangle x="140" y="55" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UE3_2l7wGbZXTyPERCW3-265" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="UE3_2l7wGbZXTyPERCW3-264">
+          <mxGeometry x="30" y="41" width="50" height="29" as="geometry" />
         </mxCell>
         <mxCell id="UE3_2l7wGbZXTyPERCW3-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.azure_blob;" vertex="1" parent="1">
           <mxGeometry x="730" y="360" width="34" as="geometry" />
