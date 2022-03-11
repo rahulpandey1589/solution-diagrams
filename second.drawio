@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T21:57:15.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.1.0" etag="cCGJvEN1xlmcqqFgedDY" type="github"><diagram id="RERDJbGqqru7l6SwUwbz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-11T05:37:59.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="3bDH1lPY_SRJzOSuP-uE" version="17.1.0" type="github">
+  <diagram id="RERDJbGqqru7l6SwUwbz" name="Page-1">
+    <mxGraphModel dx="950" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w8e5jW6mnQex9Kkc0t4j-4" value="" style="swimlane;startSize=0;dashed=1;rounded=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="970" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="w8e5jW6mnQex9Kkc0t4j-13" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;dashed=1;fillColor=#E6E6E6;" vertex="1" parent="w8e5jW6mnQex9Kkc0t4j-4">
+          <mxGeometry x="840" y="140" width="60" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="w8e5jW6mnQex9Kkc0t4j-15" value="API Gateway/ BFF" style="swimlane;rounded=1;dashed=1;fillColor=#E6E6E6;" vertex="1" parent="w8e5jW6mnQex9Kkc0t4j-4">
+          <mxGeometry x="50" y="140" width="140" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="w8e5jW6mnQex9Kkc0t4j-17" value="Identity Microservice" style="swimlane;rounded=1;dashed=1;fillColor=#E6E6E6;" vertex="1" parent="w8e5jW6mnQex9Kkc0t4j-4">
+          <mxGeometry x="420" y="20" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w8e5jW6mnQex9Kkc0t4j-18" value="" style="sketch=0;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;rounded=1;dashed=1;spacing=1;aspect=fixed;" vertex="1" parent="w8e5jW6mnQex9Kkc0t4j-17">
+          <mxGeometry x="200" y="30" width="27.36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="w8e5jW6mnQex9Kkc0t4j-9" value="SQL Server&amp;nbsp;&lt;br&gt;database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="w8e5jW6mnQex9Kkc0t4j-17">
+          <mxGeometry x="220" y="66" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8e5jW6mnQex9Kkc0t4j-14" value="Client Apps" style="swimlane;rounded=1;dashed=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="140" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
