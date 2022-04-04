@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T15:51:16.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="Px1zNxVpPq6lVSnQGuLa" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T15:51:40.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="F6wkIfHzPcWcXpctJVQo" version="17.1.2" type="github">
   <diagram id="NDC4bo6qUV1IFUfRolQ6" name="Page-1">
     <mxGraphModel dx="1468" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -347,7 +347,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="61lrkyeknkYS6H5JSlJV-131" value="Docker Host or AKS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="359" y="13" width="160" height="20" as="geometry" />
+          <mxGeometry x="475" y="24" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="61lrkyeknkYS6H5JSlJV-132" value="Vehicle Portal(External)" style="swimlane;startSize=20;glass=0;swimlaneLine=1;dashed=1;strokeWidth=1;swimlaneFillColor=none;rounded=1;shadow=0;sketch=0;swimlaneHead=1;horizontal=1;noLabel=0;collapsible=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="71" width="148" height="60" as="geometry">
