@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T05:48:57.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="AOn4YZbzBdKl-oSPNmYm" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T06:01:44.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="RtxG8UEpEY2TYb5ZQMZm" version="17.1.2" type="github">
   <diagram id="NDC4bo6qUV1IFUfRolQ6" name="Page-1">
     <mxGraphModel dx="1468" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -219,20 +219,20 @@
           <mxGeometry x="496" y="20" width="10" height="700" as="geometry" />
         </mxCell>
         <mxCell id="61lrkyeknkYS6H5JSlJV-103" value="Identity Server" style="swimlane;startSize=20;glass=0;swimlaneLine=1;dashed=1;strokeWidth=1;swimlaneFillColor=none;rounded=1;shadow=0;sketch=0;swimlaneHead=1;horizontal=1;noLabel=0;collapsible=0;" vertex="1" parent="61lrkyeknkYS6H5JSlJV-78">
-          <mxGeometry x="16" y="58" width="150" height="88" as="geometry">
+          <mxGeometry x="16" y="30" width="94" height="122" as="geometry">
             <mxRectangle x="140" y="55" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="61lrkyeknkYS6H5JSlJV-104" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="61lrkyeknkYS6H5JSlJV-103">
-          <mxGeometry x="4" y="24" width="50" height="29" as="geometry" />
+          <mxGeometry x="-2" y="24" width="50" height="29" as="geometry" />
         </mxCell>
         <mxCell id="61lrkyeknkYS6H5JSlJV-105" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="61lrkyeknkYS6H5JSlJV-103">
-          <mxGeometry x="75" y="25" width="29" height="29" as="geometry" />
+          <mxGeometry x="14.5" y="80" width="29" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="61lrkyeknkYS6H5JSlJV-106" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="61lrkyeknkYS6H5JSlJV-103">
+        <mxCell id="61lrkyeknkYS6H5JSlJV-153" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=11;" edge="1" parent="61lrkyeknkYS6H5JSlJV-103">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="43" y="39" as="sourcePoint" />
-            <mxPoint x="73" y="39" as="targetPoint" />
+            <mxPoint x="22" y="80" as="sourcePoint" />
+            <mxPoint x="22.410000000000025" y="53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="61lrkyeknkYS6H5JSlJV-126" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#FF4F8B;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;rounded=1;shadow=0;glass=0;" vertex="1" parent="61lrkyeknkYS6H5JSlJV-78">
@@ -344,7 +344,7 @@
           <mxGeometry x="359" y="13" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="61lrkyeknkYS6H5JSlJV-132" value="Vehicle Portal(External)" style="swimlane;startSize=20;glass=0;swimlaneLine=1;dashed=1;strokeWidth=1;swimlaneFillColor=none;rounded=1;shadow=0;sketch=0;swimlaneHead=1;horizontal=1;noLabel=0;collapsible=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="55" width="148" height="60" as="geometry">
+          <mxGeometry x="150" y="71" width="148" height="60" as="geometry">
             <mxRectangle x="140" y="55" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -360,10 +360,10 @@
             <mxPoint x="73" y="39" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="61lrkyeknkYS6H5JSlJV-138" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="61lrkyeknkYS6H5JSlJV-138" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="299.99999999999955" y="91" as="sourcePoint" />
-            <mxPoint x="365" y="90.00000000000023" as="targetPoint" />
+            <mxPoint x="290" y="119" as="sourcePoint" />
+            <mxPoint x="365" y="119.00000000000023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="61lrkyeknkYS6H5JSlJV-142" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;edgeStyle=orthogonalEdgeStyle;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
@@ -375,8 +375,8 @@
         <mxCell id="61lrkyeknkYS6H5JSlJV-143" value="Access Token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;rotation=270;" vertex="1" parent="1">
           <mxGeometry x="241" y="198" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="61lrkyeknkYS6H5JSlJV-144" value="External &lt;br&gt;SSO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="295" y="55" width="60" height="30" as="geometry" />
+        <mxCell id="61lrkyeknkYS6H5JSlJV-144" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;External&amp;nbsp; SSO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="275" y="99" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="61lrkyeknkYS6H5JSlJV-146" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -392,6 +392,32 @@
         </mxCell>
         <mxCell id="61lrkyeknkYS6H5JSlJV-148" value="Access Token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;rotation=270;" vertex="1" parent="1">
           <mxGeometry x="89" y="236" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="61lrkyeknkYS6H5JSlJV-149" value="Partner Workshop" style="swimlane;startSize=20;glass=0;swimlaneLine=1;dashed=1;strokeWidth=1;swimlaneFillColor=none;rounded=1;shadow=0;sketch=0;swimlaneHead=1;horizontal=1;noLabel=0;collapsible=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="150" y="4" width="147" height="60" as="geometry">
+            <mxRectangle x="140" y="55" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61lrkyeknkYS6H5JSlJV-150" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="61lrkyeknkYS6H5JSlJV-149">
+          <mxGeometry x="4" y="24" width="50" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="61lrkyeknkYS6H5JSlJV-151" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="61lrkyeknkYS6H5JSlJV-149">
+          <mxGeometry x="75" y="25" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="61lrkyeknkYS6H5JSlJV-152" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="61lrkyeknkYS6H5JSlJV-149">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="43" y="39" as="sourcePoint" />
+            <mxPoint x="73" y="39" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61lrkyeknkYS6H5JSlJV-156" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;External&amp;nbsp; SSO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="273" y="35" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="61lrkyeknkYS6H5JSlJV-160" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="288.5" y="57" as="sourcePoint" />
+            <mxPoint x="359" y="55" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
