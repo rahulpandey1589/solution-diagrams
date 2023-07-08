@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T11:38:54.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.1" etag="CVs1KtGCMRyxF37dpFlK" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-08T12:47:11.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-8dvf3SmAzBL8f25Ohb4" version="21.6.1" type="github">
   <diagram name="Page-1" id="FbxrqBaNDIRw1INJLC_C">
-    <mxGraphModel>
+    <mxGraphModel dx="1304" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jMU1ia0-qKuCmF8YuJTu-4" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jMU1ia0-qKuCmF8YuJTu-12" value="IQ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="40" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jMU1ia0-qKuCmF8YuJTu-22" value="Single Basket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="225" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="jMU1ia0-qKuCmF8YuJTu-25" value="Hotel/Rails/Flights API&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jMU1ia0-qKuCmF8YuJTu-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="408" y="230" as="sourcePoint" />
+            <mxPoint x="408" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jMU1ia0-qKuCmF8YuJTu-27" value="Hotel/Rails/Flights Suppliers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="59" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jMU1ia0-qKuCmF8YuJTu-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.607;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="221" y="379" as="sourcePoint" />
+            <mxPoint x="221.41999999999993" y="319.995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jMU1ia0-qKuCmF8YuJTu-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="69" y="252" as="sourcePoint" />
+            <mxPoint x="159" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jMU1ia0-qKuCmF8YuJTu-40" value="1." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="81" y="229" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jMU1ia0-qKuCmF8YuJTu-47" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="254" as="sourcePoint" />
+            <mxPoint x="350" y="254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jMU1ia0-qKuCmF8YuJTu-65" value="Quote Creation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="327.5" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
