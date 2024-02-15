@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T12:58:13.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8X3Aepw9zvKF_6Q-6QUO" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-15T13:06:59.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="D-LfiEg3orEPzODlUcsK" version="23.1.4" type="github">
   <diagram name="Page-1" id="zTyLRDN7jb53dtOWvMF_">
-    <mxGraphModel dx="989" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,6 +174,24 @@
         </mxCell>
         <mxCell id="ib6bxDoDmYWr2v-HCl_p-59" value="1.As this is a private endpoint, communication cannot be done via Angular application (if required)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="392" y="530" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ib6bxDoDmYWr2v-HCl_p-61" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2.&amp;nbsp; Additional deployment process is required for deploying it on multiple servers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="548" width="860" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ib6bxDoDmYWr2v-HCl_p-66" value="Pros" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="715" y="838" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ib6bxDoDmYWr2v-HCl_p-69" value="1. Standalone utility which is light weight and can be &lt;br&gt;integrated with any application" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="868" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ib6bxDoDmYWr2v-HCl_p-70" value="2. Doesn&#39;t require any additional deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="908" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ib6bxDoDmYWr2v-HCl_p-71" value="Cons" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="715" y="958" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ib6bxDoDmYWr2v-HCl_p-72" value="1. Requires separate deployment&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="738" y="978" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
